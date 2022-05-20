@@ -27,7 +27,7 @@
 * `pip2 install futures`
 * `pkg install git -y`
 * `pkg install python2 -y`
-* `rm -rf OLD`
+* `rm -rf Shadow_Bypass`
 * `git clone https://github.com/SHADOW-SQUAD-BROTHEr/Shadow_Bypass`
 * `ls`
 * `cd Shadow_Bypass`
@@ -36,6 +36,6 @@
 
 ## Single Command :
 ```
-apt update && upgrade -y ; pkg install python -y ; pkg install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install requests bs4 ; pip2 install lolcat ; pip2 install futures ; pkg install git -y ; rm -rf OLD ; git clone https://github.com/SHADOW-SQUAD-BROTHEr/Shadow_Bypass ; cd Shadow_Bypass ; python bypasahsan.py
+apt update && upgrade -y ; pkg install python -y ; pkg install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install requests bs4 ; pip2 install lolcat ; pip2 install futures ; pkg install git -y ; rm -rf Shadow_Bypass ; git clone https://github.com/SHADOW-SQUAD-BROTHEr/Shadow_Bypass ; cd Shadow_Bypass ; python bypasahsan.py
 ```
 <br>
